@@ -2,14 +2,13 @@
 
 import React from "react"
 
-export default function Segundo(){
+export default function Primeiro2(){
     const msg = "Seja bem vindo(a)"
     return (
         <div>
-            <h2>Segundo Componente</h2>
+            <h2>Primeiro Componente!!!</h2>
             <p>{ msg }</p>
         </div>
-    )
-    
+    )   
 }
 
